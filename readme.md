@@ -1,5 +1,14 @@
 ## Find publicly available data for key *supply-demand* factors that influence US home prices *nationally*
 
+Used for reference
+
+https://www.economicshelp.org/blog/377/housing/factors-that-affect-the-housing-market/
+
+https://fred.stlouisfed.org/
+
+https://www.investopedia.com/articles/mortages-real-estate/11/factors-affecting-real-estate-market.as
+
+https://www.fhfa.gov/
 <hr>
 
 ## Supply Factors : 
@@ -119,3 +128,6 @@ R-squared score: 0.9747825731064546
 
 ### Result: 
 **Both the model have similar result approx 97% accurate thus stating both supply and demand is very important in detemrming the price of houses.**
+
+
+
