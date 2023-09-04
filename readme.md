@@ -1,3 +1,7 @@
+## Find publicly available data for key *supply-demand* factors that influence US home prices *nationally*
+
+<hr>
+
 ## Supply Factors : 
 
 ### Target : CSUSHPISA 
